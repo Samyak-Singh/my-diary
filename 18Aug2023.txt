@@ -1,0 +1,64 @@
+Hi all, 
+
+Today I had a interview which went pretty bad. 
+The interview was about Java, Spring, Spring Boot. 
+
+I was able to answer few questions only. 
+The Questions was about
+    - Collection frameworks in Java. 
+        - Usage of collection in java. 
+        - Different types of collections. 
+        - HashMaps, Hashsets, what will you use when. 
+        - hashcode(), if we want to insert in the hashMap any object. 
+        - Multithreading. 
+        - Difference between  spring Beans and Component 
+        - What to use when, constructor injection vs setter injection and why. 
+        - @RestController and @Controller difference. 
+        - Spring MVC. 
+        - View Resolver.  
+    - Threads and their methods, like sleep, wait, does these methods retain or release locks. 
+    - About what java version are we talking about. 
+    - What java features does that offer. 
+    - About streams, intermedial and terminal methods. 
+    - How does set works inside. 
+
+I understand that these are theoritical questions, and these is must have. But in day to day, we are not using them. 
+Practical knowledge and Interview questions are too different. 
+I need to change the way I work.    
+        - Need to make sure I am growing right amount of skills in right direction. 
+        - Need to make sure constantly, whether I am learning anything or not. 
+
+
+Few Points to Keep Note of. 
+    - Practical learning and Theoritical learning both should go hand in hand. 
+    - keep yourself updated in tech, to grow and learn. 
+    - Keep giving interviews. 
+    - Keep updating a CV. 
+    - Keep writing Blogs and experience. 
+
+
+Key Skills that I want to grow in,  
+    - Java Frameworks, Java, System Design Basics, DSA. 
+
+Office Corporate Gyan 
+    - Understand the type of team and team structure. 
+    - Understand the hierarchy of the team, and the people.  
+    - Understanding the project
+        -its importance in the organization. 
+        -its age 
+        -what problem it is solving. 
+        -is it well funded ( chances of getting big rewards, if work is exceptional)
+    - Take ownership of the work I do. 
+    - Build Trusts, between the teammates. 
+    - Clear out the expectation with the manager/regular one to one feedbacks 
+    - Said by Pankaj
+            - 90% of the people, don't listen. 9% will have issue with what you do. 1% will agree with you. 
+                - do the work and then be vocal about the work you do. 
+                - Sell the work you have done. 
+                - Be good at communication in discussions.
+                    - Use of right terms is important. 
+                        -Learn about various jargons in agile development/ methadologies.  
+                - Show write amount of interests in the meetings. 
+            - Do some work and vocalise it with the team. 
+    - If you have to change anything, you have to be the one person to change. 
+
