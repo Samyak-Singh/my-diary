@@ -1,0 +1,9 @@
+Today I learned about 
+    - Mongoose 
+        -Schema
+        -Model 
+    -REST API 
+    -Microsoft APIs Guidelines exists. 
+    -MongoDB 
+        - Embedding Schema 
+        - Referencing Schema 
